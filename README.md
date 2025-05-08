@@ -17,6 +17,8 @@ A responsive web app built using React and Redux Toolkit to simulate real-time c
 -  CSS (Responsive Design)
 -  Simulated WebSocket updates
 
+![Demo](./demo.gif)
+
 ##  Installation
 
 Clone the repository and install dependencies:
